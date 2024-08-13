@@ -5,7 +5,7 @@ import MainPage from './homeScreen';
 import LoginScreen from './loginScreen';
 import SignUpScreen from './signupScreen';
 import { RootStackParamList } from './types';  
-
+//this is a test test
 const Stack = createStackNavigator<RootStackParamList>();
 
 const App = () => {
